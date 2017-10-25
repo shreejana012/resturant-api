@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  item: MyString
+  price: MyString
+  quantity: 1
+  total: MyString
+  selected: false
+
+two:
+  item: MyString
+  price: MyString
+  quantity: 1
+  total: MyString
+  selected: false
